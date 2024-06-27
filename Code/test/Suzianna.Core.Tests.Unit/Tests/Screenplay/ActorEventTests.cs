@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Net.Http;
-using System.Text;
 using NFluent;
 using Suzianna.Core.Events;
 using Suzianna.Core.Screenplay;
@@ -10,7 +7,6 @@ using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Core.Screenplay.Actors.Events;
 using Suzianna.Core.Tests.Unit.Tests.Utilities;
 using Suzianna.Core.Tests.Unit.Utils.Constants;
-using Suzianna.Core.Tests.Unit.Utils.TestDoubles;
 using Xunit;
 
 namespace Suzianna.Core.Tests.Unit.Tests.Screenplay

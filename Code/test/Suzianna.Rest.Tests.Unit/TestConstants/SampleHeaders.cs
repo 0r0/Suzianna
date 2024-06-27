@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Suzianna.Rest.Tests.Unit.TestConstants
+﻿namespace Suzianna.Rest.Tests.Unit.TestConstants
 {
     internal class SampleHeaders
     {

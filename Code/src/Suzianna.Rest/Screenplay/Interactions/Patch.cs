@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace Suzianna.Rest.Screenplay.Interactions
+﻿namespace Suzianna.Rest.Screenplay.Interactions
 {
     public class Patch : HttpInteraction
     {

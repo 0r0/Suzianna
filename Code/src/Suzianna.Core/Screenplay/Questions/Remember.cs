@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Suzianna.Core.Screenplay.Questions
+﻿namespace Suzianna.Core.Screenplay.Questions
 {
     public static class Remember
     {

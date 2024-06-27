@@ -1,5 +1,4 @@
-﻿using Suzianna.Core.Screenplay;
-using Suzianna.Core.Screenplay.Actors;
+﻿using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Core.Tests.Unit.Utils.Constants;
 
 namespace Suzianna.Core.Tests.Unit.Utils

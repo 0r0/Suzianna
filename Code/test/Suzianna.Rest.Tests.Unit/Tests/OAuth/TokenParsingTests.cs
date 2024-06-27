@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using NFluent;
+﻿using NFluent;
 using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Rest.OAuth;
 using Suzianna.Rest.Screenplay.Questions;

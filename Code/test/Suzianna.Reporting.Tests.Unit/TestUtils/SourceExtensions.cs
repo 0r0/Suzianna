@@ -1,5 +1,4 @@
-﻿using Org.XmlUnit;
-using Org.XmlUnit.Builder;
+﻿using Org.XmlUnit.Builder;
 using Org.XmlUnit.Xpath;
 
 namespace Suzianna.Reporting.Tests.Unit.TestUtils

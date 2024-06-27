@@ -1,5 +1,4 @@
-﻿using System.IO;
-using YAXLib;
+﻿using YAXLib;
 
 namespace Suzianna.Rest.Serialization
 {

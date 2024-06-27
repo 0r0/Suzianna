@@ -1,5 +1,4 @@
-﻿using Suzianna.Core.Screenplay;
-using Suzianna.Core.Screenplay.Actors;
+﻿using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Core.Screenplay.Questions;
 
 namespace Suzianna.Core.Tests.Unit.Utils.TestDoubles

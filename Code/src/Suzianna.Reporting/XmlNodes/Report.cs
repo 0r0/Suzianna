@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Suzianna.Reporting.Exceptions;
 
 namespace Suzianna.Reporting.XmlNodes

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net;
-using System.Net.Http;
 using Newtonsoft.Json;
 using NFluent;
 using Suzianna.Core.Screenplay.Actors;

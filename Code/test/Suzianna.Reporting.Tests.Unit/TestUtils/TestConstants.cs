@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
-using System.Text;
-using Suzianna.Reporting.Tests.Unit.Resources;
+﻿using Suzianna.Reporting.Tests.Unit.Resources;
 
 namespace Suzianna.Reporting.Tests.Unit.TestUtils
 {

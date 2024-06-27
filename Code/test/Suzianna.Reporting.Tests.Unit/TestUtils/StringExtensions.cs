@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Org.XmlUnit;
-using Org.XmlUnit.Builder;
-
-namespace Suzianna.Reporting.Tests.Unit.TestUtils
+﻿namespace Suzianna.Reporting.Tests.Unit.TestUtils
 {
     public static class StringExtensions
     {

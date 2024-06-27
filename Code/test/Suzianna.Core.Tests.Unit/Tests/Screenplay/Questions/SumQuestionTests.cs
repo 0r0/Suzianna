@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections;
-using NFluent;
-using Suzianna.Core.Screenplay;
+﻿using NFluent;
 using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Core.Screenplay.Questions;
 using Suzianna.Core.Tests.Unit.Utils;
 using Suzianna.Core.Tests.Unit.Utils.Constants;
-using Suzianna.Core.Tests.Unit.Utils.TestDoubles;
 using Xunit;
 
 namespace Suzianna.Core.Tests.Unit.Tests.Screenplay.Questions

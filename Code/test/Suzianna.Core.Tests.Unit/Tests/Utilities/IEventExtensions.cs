@@ -1,6 +1,4 @@
-﻿using System;
-using System.Text;
-using Suzianna.Core.Events;
+﻿using Suzianna.Core.Events;
 
 namespace Suzianna.Core.Tests.Unit.Tests.Utilities
 {

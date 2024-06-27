@@ -1,7 +1,6 @@
 ﻿using System.Net.Http;
 using NFluent;
 using Suzianna.Rest.Screenplay.Abilities;
-using Suzianna.Rest.Screenplay.Interactions;
 using Suzianna.Rest.Tests.Unit.TestConstants;
 using Suzianna.Rest.Tests.Unit.TestDoubles;
 using Suzianna.Rest.Tests.Unit.TestUtils;

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Suzianna.Core.Screenplay;
+﻿using System.Linq;
 using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Core.Screenplay.Questions;
 using Suzianna.Rest.Screenplay.Abilities;

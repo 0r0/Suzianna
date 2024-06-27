@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Text;
-
-namespace Suzianna.Core.Events
+﻿namespace Suzianna.Core.Events
 {
     internal interface IEventBus
     {

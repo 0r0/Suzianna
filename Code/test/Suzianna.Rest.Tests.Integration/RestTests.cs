@@ -1,8 +1,5 @@
-using System;
-using System.Collections.Generic;
 using System.Net;
 using NFluent;
-using Suzianna.Core.Screenplay;
 using Suzianna.Core.Screenplay.Actors;
 using Suzianna.Core.Screenplay.Questions;
 using Suzianna.Rest.Screenplay.Abilities;
